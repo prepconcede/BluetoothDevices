@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BluetoothDevices</string>
+    <string name="get_connected_bluetooth_devices">Get connected bluetooth devices</string>
+</resources>
